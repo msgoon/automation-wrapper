@@ -1,4 +1,4 @@
-package com.example.automationwrapper;
+package com.example.automation_wrapper;
 
 public class TouchableElement {
     public static String getMessage() {
